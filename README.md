@@ -1,1 +1,0 @@
-# schizoproject.github.io
