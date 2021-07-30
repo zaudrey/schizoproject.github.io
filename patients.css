@@ -20,6 +20,7 @@
             /* add a color ot the active/current link*/ 
             .topnav a.active{
                 background-color: #4CAF50;
+                color: white;
             }
             
             /* changes font of body*/
